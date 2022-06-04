@@ -7,7 +7,7 @@
 </div></a></div><p></p>
 <hr>
 <p><strong>[Preview]</strong></p>
-<p><a href="https://streamable.com/p75y2l" rel="noopener nofollow ugc">Streamable - RadialMenu Demo <span class="badge badge-notification clicks" title="49 clicks">49</span></a></p>
+<p><a href="https://streamable.com/p75y2l" rel="noopener nofollow ugc">Streamable - RadialMenu Demo </a></p>
 <hr>
 <p><strong>[Explanation]</strong></p>
 <p>This is a standalone <strong>RadialMenu</strong> to make the execution of actions easy and replace  every Job or interaction Menu.</p>
@@ -52,7 +52,7 @@
 </ul>
 <hr>
 <h2><strong>Download (34.99€)</strong></h2>
-<p>Get this resource at <a href="https://juli.tebex.io/category/custom-fivem-scripts" rel="noopener nofollow ugc">Tebex <span class="badge badge-notification clicks" title="17 clicks">17</span></a></p>
+<p>Get this resource at <a href="https://juli.tebex.io/category/custom-fivem-scripts" rel="noopener nofollow ugc">Tebex</a></p>
 <div class="md-table">
 <table>
 <thead>
